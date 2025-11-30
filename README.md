@@ -8,7 +8,7 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - **Languages:** Java, Python, JavaScript, SQL
 - **Frameworks:** Spring Boot, Vue.js, Node.js, Express
 - **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD (GitHub Actions)
-- **Architecture:** Microservices, REST APIs, Multi-tenant SaaS
+- **Architecture:** Layered Architecture, REST APIs, Multi-tenant SaaS
 
 ### 💼 Notable Projects
 
