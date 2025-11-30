@@ -16,7 +16,7 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - Designed and built a multi-tenant Human Resource Management System using Spring Boot and AWS
 - Implemented layered architecture with clear separation of concerns (presentation, business logic, data access)
 - Features: employee management, leave tracking, scheduling, company management
-- Tech Stack: Spring Boot, MySQL, AWS, Docker, REST APIs
+- Tech Stack: Spring Boot, MySQL, AWS, Docker, REST APIs, CI/CD automation
 
 **ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
 - Implemented and maintained ERP modules with role-based access control and automated testing
