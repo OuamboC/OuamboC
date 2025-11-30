@@ -14,15 +14,16 @@ I'm passionate about building scalable enterprise applications. I graduated from
 
 **Enterprise HRMS System** *(Private Repository)*
 - Designed and built a multi-tenant Human Resource Management System using Spring Boot and AWS
-- Implemented microservices architecture with Docker containerization
-- Features: employee management, leave tracking, scheduling, payroll integration
-- Tech Stack: Spring Boot, PostgreSQL, AWS, Docker, REST APIs
+- Implemented layered architecture with clear separation of concerns (presentation, business logic, data access)
+- Features: employee management, leave tracking, scheduling, company management
+- Tech Stack: Spring Boot, MySQL, AWS, Docker, REST APIs
 
-**ERP System Development** *(COGENI S.A., Cameroon - Internship)*
-- Contributed to enterprise resource planning system during software engineering internship
-- Implemented business logic modules and integrated third-party services
-- Developed features for inventory management and financial reporting
-- Tech Stack: Spring Boot, MySQL, microservices architecture
+**ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
+- Implemented and maintained ERP modules with role-based access control and automated testing
+- Enhanced ERP wallet functionality to support mobile money payments, improving transaction success rate by 30%
+- Contributed to system design proposals that improved platform scalability for 40% projected user growth
+- Collaborated in technical meetings to align system enhancements with business needs
+- Tech Stack: Spring Boot, MySQL, REST APIs, CI/CD automation
 
 **Chirrup Social Media Platform** *([View Repository](https://github.com/OuamboC/Chirrup-Social-Media))*
 - Full-stack social media platform built for university coursework
@@ -36,11 +37,11 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - Tech Stack: Python, Discord.py, DeepSeek API
 
 ### 🎯 Current Focus
-- Preparing for technical interviews at FAANG and tier-1 tech companies
-- Deepening expertise in data structures, algorithms, and system design
-- Available for Software Engineer roles starting January 2026 (UK visa sponsorship required)
+- Actively seeking Software Engineer roles across fintech, enterprise software, and technology companies
+- Preparing for technical interviews with focus on data structures, algorithms, and system design
+- Available to start January 2026 (UK work authorization in place)
 
 ### 📫 Let's Connect
-- **LinkedIn:** [canis-ouambo-203264234](https://www.linkedin.com/in/canis-ouambo-203264234/)
+- **LinkedIn:** [canis-ouambo-203264234](https://www.linkedin.com/in/canis-breal-ouambo/)
 - **Location:** Manchester, United Kingdom
 - **Email:** Available on request
