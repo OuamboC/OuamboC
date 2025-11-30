@@ -2,7 +2,7 @@
 
 ## First Class Software Engineering Graduate
 
-I'm passionate about building scalable enterprise applications. I graduated from Manchester Metropolitan University in July 2024 with First Class Honours in Software Engineering and gained hands-on experience developing production systems during my internship at COGENI S.A.
+I'm passionate about building scalable enterprise applications. I graduated from Manchester Metropolitan University in July 2025 with First Class Honours in Software Engineering and gained hands-on experience developing production systems during my internship at COGENI S.A.
 
 ### 🔧 Technical Skills
 - **Languages:** Java, Python, JavaScript, SQL
