@@ -2,21 +2,21 @@
 
 ## First Class Software Engineering Graduate
 
-I'm passionate about building scalable enterprise applications. I graduated from Manchester Metropolitan University in July 2025 with First Class Honours in Software Engineering and gained hands-on experience building multi-tenant systems, ERP modules, and full-stack applications.
+I'm passionate about building scalable enterprise applications with a growing focus on cybersecurity. I graduated from Manchester Metropolitan University in July 2025 with First Class Honours in Software Engineering and gained hands-on experience building multi-tenant systems, ERP modules, and full-stack applications.
 
 ### 🔧 Technical Skills
 - **Languages:** Java, Python, JavaScript, SQL
-- **Frameworks:** Spring Boot, Vue.js, Node.js, Express
-- **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, CI/CD (GitHub Actions)
-- **Architecture:** Layered Architecture, REST APIs, Multi-tenant SaaS
+- **Frameworks:** Spring Boot, React, React Native, Expo, Vue.js, Node.js, Express
+- **Cloud & DevOps:** AWS (Elastic Beanstalk, RDS), Docker, Render, Vercel, Aiven, CI/CD (GitHub Actions)
+- **Architecture:** Layered Architecture, REST APIs, RBAC, Multi-tenant SaaS
 
 ### 💼 Notable Projects
 
-**WengHR - Modern HR Management Platform** *([View Live Demo](https://weng-hr.vercel.app))*
-- Currently developing a modern HR management platform with real-time functionality
-- Full-stack application with production-ready architecture deployed on Vercel
-- Features: employee management, department tracking, role management, and analytics
-- Tech Stack: Java, Spring Boot, React Native, Expo, REST APIs, Cloud Deployment
+**WengHR - Multi-Tenant HR Management Platform** *([View Live Demo](https://weng-hr.vercel.app))*
+- Full-stack SaaS platform with multi-tenant architecture and 4-tier RBAC
+- Features: employee management, customisable leave policies, shift scheduling, i18n (EN/FR/ES)
+- Beta tested with 100+ users across multiple organisations
+- Tech Stack: Java 21, Spring Boot, React Native, Expo, MySQL (Aiven), Docker, Render, Vercel
 - Status: Active development (Updated January 2026)
 
 **ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
@@ -38,7 +38,7 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - Tech Stack: Python, Discord.py, DeepSeek API
 
 ### 🎯 Current Focus
-- Actively seeking Software Engineer roles across fintech, enterprise software, and technology companies
+- Actively seeking Software Engineer or Security Engineer roles across fintech, enterprise software, and technology companies
 - Preparing for technical interviews with focus on data structures, algorithms, and system design
 - Immediately available (UK work authorization in place)
 
