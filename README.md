@@ -19,12 +19,6 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - Tech Stack: Java, Spring Boot, React Native, Expo, REST APIs, Cloud Deployment
 - Status: Active development (Updated January 2026)
 
-**Enterprise HRMS System** *(Private Repository)*
-- Designed and built a multi-tenant Human Resource Management System using Spring Boot and AWS
-- Implemented layered architecture with clear separation of concerns (presentation, business logic, data access)
-- Features: employee management, leave tracking, scheduling, company management
-- Tech Stack: Spring Boot, MySQL, AWS, Docker, REST APIs, CI/CD automation
-
 **ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
 - Implemented and maintained ERP modules with role-based access control and automated testing
 - Enhanced ERP wallet functionality to support mobile money payments, improving transaction success rate by 30%
