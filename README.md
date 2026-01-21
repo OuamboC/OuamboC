@@ -16,7 +16,7 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - Currently developing a modern HR management platform with real-time functionality
 - Full-stack application with production-ready architecture deployed on Vercel
 - Features: employee management, department tracking, role management, and analytics
-- Tech Stack: JavaScript, Vue.js, Node.js, REST APIs, Cloud Deployment
+- Tech Stack: Java, Spring Boot, React Native, Expo, REST APIs, Cloud Deployment
 - Status: Active development (Updated January 2026)
 
 **Enterprise HRMS System** *(Private Repository)*
