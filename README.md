@@ -2,7 +2,7 @@
 
 ## First Class Software Engineering Graduate
 
-I'm passionate about building scalable enterprise applications. I graduated from Manchester Metropolitan University in July 2025 with First Class Honours in Software Engineering and gained hands-on experience developing production systems during my internship at COGENI S.A.
+I'm passionate about building scalable enterprise applications. I graduated from Manchester Metropolitan University in July 2025 with First Class Honours in Software Engineering and gained hands-on experience building multi-tenant systems, ERP modules, and full-stack applications.
 
 ### 🔧 Technical Skills
 - **Languages:** Java, Python, JavaScript, SQL
@@ -11,6 +11,13 @@ I'm passionate about building scalable enterprise applications. I graduated from
 - **Architecture:** Layered Architecture, REST APIs, Multi-tenant SaaS
 
 ### 💼 Notable Projects
+
+**WengHR - Modern HR Management Platform** *([View Live Demo](https://weng-hr.vercel.app))*
+- Currently developing a modern HR management platform with real-time functionality
+- Full-stack application with production-ready architecture deployed on Vercel
+- Features: employee management, department tracking, role management, and analytics
+- Tech Stack: JavaScript, Vue.js, Node.js, REST APIs, Cloud Deployment
+- Status: Active development (Updated January 2026)
 
 **Enterprise HRMS System** *(Private Repository)*
 - Designed and built a multi-tenant Human Resource Management System using Spring Boot and AWS
@@ -39,9 +46,9 @@ I'm passionate about building scalable enterprise applications. I graduated from
 ### 🎯 Current Focus
 - Actively seeking Software Engineer roles across fintech, enterprise software, and technology companies
 - Preparing for technical interviews with focus on data structures, algorithms, and system design
-- Available to start January 2026 (UK work authorization in place)
+- Immediately available (UK work authorization in place)
 
 ### 📫 Let's Connect
-- **LinkedIn:** [canis-ouambo-203264234](https://www.linkedin.com/in/canis-breal-ouambo/)
+- **LinkedIn:** [Canis Breal Ouambo](https://www.linkedin.com/in/canis-breal-ouambo/)
 - **Location:** Manchester, United Kingdom
 - **Email:** Available on request
