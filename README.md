@@ -12,7 +12,7 @@ I'm passionate about building scalable enterprise applications with a growing fo
 
 ### 💼 Notable Projects
 
-**WengHR - Multi-Tenant HR Management Platform** *([View Live Demo](https://weng-hr.vercel.app))*
+**WengHR - Multi-Tenant HR Management Platform** *([View Live Demo](https://www.wenghr.me/))*
 - Full-stack SaaS platform with multi-tenant architecture and 4-tier RBAC
 - Features: employee management, customisable leave policies, shift scheduling, i18n (EN/FR/ES)
 - Beta tested with 100+ users across multiple organisations
