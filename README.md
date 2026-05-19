@@ -19,7 +19,7 @@ I'm passionate about building scalable enterprise applications with a growing fo
 - i18n: EN/FR/ES; responsive Expo web client
 - Beta: 100+ users across multiple organisations 
 - Stack: Java 21, Spring Boot, Flyway, MySQL (Aiven), React Native + Expo (web), Docker (Render), Vercel; Terraform + GitHub Actions (incl. synthetic E2E smoke)
-- Status: Active development (Updated  May 2026)
+- Status: Active development (Updated May 2026)
 
 **ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
 - Implemented and maintained ERP modules with role-based access control and automated testing
