@@ -5,10 +5,12 @@
 I'm passionate about building scalable enterprise applications with a growing focus on cybersecurity. I graduated from Manchester Metropolitan University in July 2025 with First Class Honours in Software Engineering and gained hands-on experience building multi-tenant systems, ERP modules, and full-stack applications.
 
 ### 🔧 Technical Skills
-- **Languages:** Java, Python, JavaScript, SQL
-- **Frameworks:** Spring Boot, React, React Native, Expo, Vue.js, Node.js, Express
-- **Cloud & DevOps:** AWS (Elastic Beanstalk, RDS), Docker, Render, Vercel, Aiven, CI/CD (GitHub Actions)
-- **Architecture:** Layered Architecture, REST APIs, RBAC, Multi-tenant SaaS
+- **Languages:** Python, Java, JavaScript, SQL
+- **Frameworks:** FastAPI, Spring Boot, React, React Native, Expo, Vue.js, Node.js, Express
+- **Databases:** SQLModel
+- **Cloud & DevOps:** AWS (Elastic Beanstalk, RDS), Docker, Render, Vercel, Aiven, CI/CD (GitHub Actions), Terraform
+- **Security Tooling:** Snyk (SCA), SonarQube (SAST), OWASP ZAP (DAST)
+- **Architecture:** Modular Monolith, REST APIs, RBAC, Multi-tenant SaaS
 
 ### 💼 Notable Projects
 
