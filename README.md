@@ -12,12 +12,14 @@ I'm passionate about building scalable enterprise applications with a growing fo
 
 ### 💼 Notable Projects
 
-**WengHR - Multi-Tenant HR Management Platform** *([View Live Demo](https://www.wenghr.me/))*
-- Full-stack SaaS platform with multi-tenant architecture and 4-tier RBAC
-- Features: employee management, customisable leave policies, shift scheduling, i18n (EN/FR/ES)
-- Beta tested with 100+ users across multiple organisations
-- Tech Stack: Java 21, Spring Boot, React Native, Expo, MySQL (Aiven), Docker, Render, Vercel
-- Status: Active development (Updated January 2026)
+**WengHR - Multi-Tenant HR Management Platform** *([Live demo](https://www.wenghr.me/))*
+- Full-stack SaaS: tenant-scoped data, JWT auth, layered RBAC (Admin, HR Manager, Dept Manager, Observer, Employee)
+- HR ops: employees (including bulk CSV/Excel import with async jobs), departments, attendance, leave policies & requests, shift schedules & timetables, payroll settings & records, subscriptions/payments
+- Insights: company + platform analytics; exports (PDF/CSV/Excel)
+- i18n: EN/FR/ES; responsive Expo web client
+- Beta: 100+ users across multiple organisations 
+- Stack: Java 21, Spring Boot, Flyway, MySQL (Aiven), React Native + Expo (web), Docker (Render), Vercel; Terraform + GitHub Actions (incl. synthetic E2E smoke)
+- Status: Active development (Updated  May 2026)
 
 **ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
 - Implemented and maintained ERP modules with role-based access control and automated testing
