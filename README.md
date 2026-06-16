@@ -14,14 +14,33 @@ I'm passionate about building scalable enterprise applications with a growing fo
 
 ### 💼 Notable Projects
 
-**WengHR - Multi-Tenant HR Management Platform** *([Live demo](https://www.wenghr.me/))*
-- Full-stack SaaS: tenant-scoped data, JWT auth, layered RBAC (Admin, HR Manager, Dept Manager, Observer, Employee)
-- HR ops: employees (including bulk CSV/Excel import with async jobs), departments, attendance, leave policies & requests, shift schedules & timetables, payroll settings & records, subscriptions/payments
-- Insights: company + platform analytics; exports (PDF/CSV/Excel)
-- i18n: EN/FR/ES; responsive Expo web client
-- Beta: 100+ users across multiple organisations 
-- Stack: Java 21, Spring Boot, Flyway, MySQL (Aiven), React Native + Expo (web), Docker (Render), Vercel; Terraform + GitHub Actions (incl. synthetic E2E smoke)
-- Status: Active development (Updated May 2026)
+### WengHR — Multi-Tenant HR SaaS for African SMEs
+**[Live](https://wenghr.me)** · Java 21 · Spring Boot · React Native · Expo · MySQL
+
+HR platform built for Africa and every growing team. Flat price per company, never per seat.
+
+**Core modules**
+- Employee management with bulk CSV/Excel import
+- Leave policies, requests, and approvals
+- Attendance tracking with biometric terminal integration (ZKTeco/Granding ADMS iClock protocol)
+- Shift scheduling and timetables
+- Payroll calculation with custom deductions
+- Company and platform analytics with PDF/CSV/Excel exports
+
+**Technical highlights**
+- Multi-tenant architecture with tenant-scoped data isolation
+- Layered RBAC: Admin, HR Manager, Department Manager, Observer, Employee
+- JWT authentication with refresh token rotation and token blacklisting
+- Biometric terminal relay supporting HTTP-only legacy devices via ADMS push protocol
+- Internationalised in English, French, and Spanish
+- CI/CD: GitHub Actions with synthetic E2E smoke tests, SonarCloud, Snyk, OWASP ZAP
+- Infrastructure as Code: Terraform Cloud managing Render deployment
+- Expo web client deployed on Vercel with SEO optimisation
+
+**Stack**
+`Java 21` `Spring Boot` `Flyway` `MySQL (Aiven)` `React Native` `Expo` `Vercel` `Render` `Terraform` `GitHub Actions`
+
+**Status:** Active development · 90-day free trial · [wenghr.me](https://wenghr.me)
 
 **ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
 - Implemented and maintained ERP modules with role-based access control and automated testing
