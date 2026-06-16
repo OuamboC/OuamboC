@@ -7,14 +7,14 @@ I'm passionate about building scalable enterprise applications with a growing fo
 ### 🔧 Technical Skills
 - **Languages:** Python, Java, JavaScript, SQL
 - **Frameworks:** FastAPI, Spring Boot, React, React Native, Expo, Vue.js, Node.js, Express
-- **Databases:** SQLModel
+- **Databases:** MySQL, SQLite, SQLModel
 - **Cloud & DevOps:** AWS (Elastic Beanstalk, RDS), Docker, Render, Vercel, Aiven, CI/CD (GitHub Actions), Terraform
 - **Security Tooling:** Snyk (SCA), SonarQube (SAST), OWASP ZAP (DAST)
 - **Architecture:** Modular Monolith, REST APIs, RBAC, Multi-tenant SaaS
 
 ### 💼 Notable Projects
 
-### WengHR — Multi-Tenant HR SaaS for African SMEs
+### WengHR - Multi-Tenant HR SaaS for African SMEs
 **[Live](https://wenghr.me)** · Java 21 · Spring Boot · React Native · Expo · MySQL
 
 HR platform built for Africa and every growing team. Flat price per company, never per seat.
@@ -42,28 +42,29 @@ HR platform built for Africa and every growing team. Flat price per company, nev
 
 **Status:** Active development · 90-day free trial · [wenghr.me](https://wenghr.me)
 
-**ERP System Development** *(COGENI S.A., Cameroon - Internships 2024-2025)*
+**ERP System Development** *(COGENI S.A., Cameroon — Internships 2024–2025)*
 - Implemented and maintained ERP modules with role-based access control and automated testing
-- Enhanced ERP wallet functionality to support mobile money payments, improving transaction success rate by 30%
-- Contributed to system design proposals that improved platform scalability for 40% projected user growth
-- Collaborated in technical meetings to align system enhancements with business needs
-- Tech Stack: Spring Boot, MySQL, REST APIs, CI/CD automation
+- Extended ERP wallet functionality to support mobile money payments via API integration
+- Contributed to system design proposals to improve platform scalability
+- Collaborated in technical meetings to align system enhancements with business requirements
+- Stack: `Spring Boot` `MySQL` `REST APIs` `CI/CD`
 
-**Chirrup Social Media Platform** *([View Repository](https://github.com/OuamboC/Chirrup-Social-Media))*
-- Full-stack social media platform built for university coursework
-- Frontend: Vue.js with Vue Router and interactive forms
-- Backend: Node.js with Express, RESTful API design
-- Tech Stack: Vue.js, Node.js, Express, JavaScript
+**Chirrup — Social Media Platform** *([View Repository](https://github.com/OuamboC/Chirrup-Social-Media))*
+- Full-stack social media platform with user authentication, posts, and interactive feeds
+- Frontend: Vue.js with Vue Router
+- Backend: Node.js with Express and RESTful API design
+- Stack: `Vue.js` `Node.js` `Express` `JavaScript`
 
-**WengBot - Discord AI Assistant** *([View Repository](https://github.com/OuamboC/DiscordChatBot))*
-- AI-powered Discord bot integrated with DeepSeek API
-- Intelligently responds to user messages and enhances server engagement
-- Tech Stack: Python, Discord.py, DeepSeek API
+**Job Application Tracker API** *([Live](https://job-application-tracker-0rig.onrender.com/docs) · [View Repository](https://github.com/OuamboC/job-application-tracker))*
+- REST API to manage and track job applications with JWT authentication
+- CRUD operations with pagination and status filtering
+- Object-level authorisation protecting against IDOR/BOLA (OWASP API Security Top 10)
+- Users can only access and modify their own applications; cross-user requests return 404 to prevent resource enumeration
+- Stack: `Python` `FastAPI` `SQLModel` `SQLite` `JWT`
 
 ### 🎯 Current Focus
-- Actively seeking Software Engineer or Security Engineer roles across fintech, enterprise software, and technology companies
-- Preparing for technical interviews with focus on data structures, algorithms, and system design
-- Immediately available (UK work authorization in place)
+- Actively seeking Software Engineer or Security Engineer roles in fintech, enterprise software, and technology
+- Building WengHR and onboarding clients across Central Africa
 
 ### 📫 Let's Connect
 - **LinkedIn:** [Canis Breal Ouambo](https://www.linkedin.com/in/canis-breal-ouambo/)
